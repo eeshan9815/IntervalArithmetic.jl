@@ -16,7 +16,7 @@ makedocs(
 )
 
 deploydocs(
-    repo   = "github.com/JuliaIntervals/IntervalArithmetic.jl.git",
+    repo   = "github.com/eeshan9815/IntervalArithmetic.jl.git",
     target = "build",
     julia  = "0.6",
     osname = "linux",
